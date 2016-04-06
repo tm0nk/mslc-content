@@ -34,3 +34,5 @@ color: #ffffff;
 }
 
 .events-archive #header .bottom-header h2 { display : none; }
+.events-single #header .bottom-header h2 { display : none; }
+.events-single #header .bottom-header p { display: none; }
